@@ -1,0 +1,11 @@
+.text {
+    font-size: 20px;
+    padding: 20px 0 0 30px;
+    list-style: none;
+  }
+  
+  .author {
+    line-height: 3;
+    padding-left: 50px;
+  }
+  
